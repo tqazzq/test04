@@ -1,0 +1,36 @@
+Index: pom.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- pom.xml	(date 1592299434995)
++++ pom.xml	(date 1592299434995)
+@@ -0,0 +1,12 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project xmlns="http://maven.apache.org/POM/4.0.0"
++         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
++         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
++    <modelVersion>4.0.0</modelVersion>
++
++    <groupId>com.itheima</groupId>
++    <artifactId>ceshi_git</artifactId>
++    <version>1.0-SNAPSHOT</version>
++
++
++</project>
+\ No newline at end of file
+Index: src/main/java/CeShiGit.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/java/CeShiGit.java	(date 1592299473715)
++++ src/main/java/CeShiGit.java	(date 1592299473715)
+@@ -0,0 +1,7 @@
++/**
++ * @Author Tian Qing
++ * @Daate: Created in 17:24 2020/6/16
++ */
++public class CeShiGit {
++    //第一次提交
++}
